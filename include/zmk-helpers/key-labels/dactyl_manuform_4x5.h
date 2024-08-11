@@ -34,7 +34,6 @@
 #define RM2 17
 #define RM3 18
 #define RM4 19
-#define RM5 20
 
 #define LB0 20  // left-bottom row
 #define LB1 21
@@ -58,9 +57,9 @@
 #define RTT0 36  // right-top thumb keys
 #define RTT1 37
 #define RTT2 38
-#define RTT4 39
-#define RTT5 40
-#define RTT6 41
+#define RTT3 39
+#define RTT4 40
+#define RTT5 41
 
 #define LBT0 42  // left-bottom thumb keys
 #define LBT1 43
